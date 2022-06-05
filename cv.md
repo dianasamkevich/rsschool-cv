@@ -23,9 +23,11 @@ I am a manual tester. I want to learn automated testing and work with JavaScript
  
 ## Code example 
  
+```
 function multiply(a, b) { 
   return a * b 
 } 
+```
  
 ## Education  
 Belarusian State University (Faculty of Marketing) 
